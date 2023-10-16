@@ -1,0 +1,22 @@
+.wrapper {
+    width: 32vw;
+    height: 34vh;
+    border: 1px solid black;
+    border-radius: 9px;
+    margin: 12px;
+    display: flex;
+    font-size: 10px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #61dafb;
+}
+.container {
+    padding: 2em;
+}
+
+.image {
+    width: 20vw;
+    height: 34vh;
+    object-fit: cover;
+    border-radius: 0 0 9px 9px;
+}
